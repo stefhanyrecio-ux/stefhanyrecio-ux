@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 <img width="220" height="386" alt="{61F73C35-3D9C-473D-8474-7B3180F720E3}" src="https://github.com/user-attachments/assets/50fb5cd3-2442-466c-9351-0d9845b05eac" />
 C# (icone)
 <img src="httpa://cdn.jsdelivr.net/gh/devicons/
+<img width="427" height="526" alt="image" src="https://github.com/user-attachments/assets/08901a7d-0344-4422-bffd-27a40c109180" />
